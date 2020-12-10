@@ -57,7 +57,7 @@ var authors =[
 {
     title: 'SUGATHAKUMARI',
     author:' Poet,Activist',
- 
+    
     img:"sugatha.jpg"
 },
 {
